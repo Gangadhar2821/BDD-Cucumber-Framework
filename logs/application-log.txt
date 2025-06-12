@@ -1,0 +1,1485 @@
+2025-06-09 16:21:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 16:21:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 16:21:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 16:21:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 16:21:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 16:21:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 16:22:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 16:22:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- cGGOXZDxRIWX
+2025-06-09 16:22:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- taQJ
+2025-06-09 16:22:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- AWK
+2025-06-09 16:22:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 16:22:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 16:22:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 16:22:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 16:22:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- BwnvMyLoPaWAbXNZSnUr
+2025-06-09 16:22:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 16:22:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 16:22:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- FylVhx
+2025-06-09 16:22:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 7057998167
+2025-06-09 16:22:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- wiVjzM
+2025-06-09 16:22:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- EUmRTX
+2025-06-09 16:22:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ESibwv
+2025-06-09 16:22:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- hyIOqv
+2025-06-09 16:22:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- pnzvgT
+2025-06-09 16:22:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 16:22:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- cFgF
+2025-06-09 16:22:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 16:22:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 16:22:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 16:22:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\_validateCreatedContact_20250609_162231.png
+2025-06-09 16:22:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 16:22:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 16:33:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 16:33:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 16:33:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 16:33:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 16:33:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 16:33:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 16:33:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 16:33:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- LYFzoGKzrhDD
+2025-06-09 16:33:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- aKPx
+2025-06-09 16:33:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- RWz
+2025-06-09 16:33:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 16:33:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 16:33:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 16:33:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 16:33:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- JXdPNEGpiDGMDUckWJXH
+2025-06-09 16:33:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 16:33:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 16:33:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- JoSWSR
+2025-06-09 16:33:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 8593148096
+2025-06-09 16:34:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VwDSsd
+2025-06-09 16:34:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- TVMrWF
+2025-06-09 16:34:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- prbECa
+2025-06-09 16:34:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- yFOFDN
+2025-06-09 16:34:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- whbxix
+2025-06-09 16:34:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 16:34:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- dEVa
+2025-06-09 16:34:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 16:34:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 16:34:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 16:34:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\_validateCreatedContact_20250609_163415.png
+2025-06-09 16:34:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 16:34:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 16:39:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 16:39:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 16:39:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 16:39:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 16:39:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 16:39:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 16:40:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 16:40:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- rlyaELpOYGzC
+2025-06-09 16:40:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- UnGJ
+2025-06-09 16:40:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- YSj
+2025-06-09 16:40:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 16:40:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 16:40:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 16:40:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 16:40:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- jmcjpQpvCaluLcWfGSFL
+2025-06-09 16:40:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 16:40:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 16:40:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- eiIFSK
+2025-06-09 16:40:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 7216543645
+2025-06-09 16:40:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- LwTXpi
+2025-06-09 16:40:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- qlIZWw
+2025-06-09 16:40:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- PGXZpJ
+2025-06-09 16:40:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- EBUmBy
+2025-06-09 16:40:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- LCkwTW
+2025-06-09 16:40:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 16:40:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- wjvm
+2025-06-09 16:40:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 16:40:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 16:40:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 16:40:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\_validateCreatedContact_20250609_164026.png
+2025-06-09 16:40:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 16:40:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 17:10:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 17:10:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 17:10:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 17:10:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 17:10:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 17:10:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 17:11:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 17:11:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- kiHtlkhDIWDH
+2025-06-09 17:11:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- OVcm
+2025-06-09 17:11:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- WMV
+2025-06-09 17:11:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 17:11:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 17:11:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 17:11:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 17:11:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- unKtgURSHaaXhNahoXrV
+2025-06-09 17:11:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 17:11:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 17:11:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- vnrAqf
+2025-06-09 17:11:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 9064790420
+2025-06-09 17:11:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- eagQky
+2025-06-09 17:11:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- tKEvZP
+2025-06-09 17:11:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- YimVqc
+2025-06-09 17:11:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- aQrBwd
+2025-06-09 17:11:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- GVaQcH
+2025-06-09 17:11:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 17:11:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- rFJB
+2025-06-09 17:11:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 17:11:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 17:11:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 17:11:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\_validateCreatedContact_20250609_171122.png
+2025-06-09 17:11:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 17:11:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 17:13:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 17:13:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 17:13:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 17:13:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 17:13:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 17:13:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 17:13:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 17:13:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- LjLrkeCAAqMk
+2025-06-09 17:13:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- bfkC
+2025-06-09 17:13:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- MVk
+2025-06-09 17:13:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 17:13:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 17:13:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 17:13:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 17:13:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- FUXGNPLIQmhVRbINdePN
+2025-06-09 17:13:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 17:13:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 17:13:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- JvxxJk
+2025-06-09 17:13:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 8019416062
+2025-06-09 17:13:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- uQTDQZ
+2025-06-09 17:13:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- wufGBb
+2025-06-09 17:13:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- aEIaGP
+2025-06-09 17:13:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- qlhZeQ
+2025-06-09 17:13:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- geSzuu
+2025-06-09 17:13:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 17:13:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- CAQs
+2025-06-09 17:13:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 17:13:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 17:13:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 17:13:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\_validateCreatedContact_20250609_171331.png
+2025-06-09 17:13:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 17:13:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 17:43:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 17:43:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 17:43:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 17:43:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 17:43:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 17:43:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 17:44:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 17:44:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- qGsjiAEkbrnY
+2025-06-09 17:44:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- qjjp
+2025-06-09 17:44:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- fDm
+2025-06-09 17:44:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 17:44:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 17:44:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 17:44:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 17:44:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- iYsuUiWkdZYrCoNpOHnC
+2025-06-09 17:44:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 17:44:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 17:44:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- yzscui
+2025-06-09 17:44:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 7558340169
+2025-06-09 17:44:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- GRlNkl
+2025-06-09 17:44:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- PYVmvm
+2025-06-09 17:44:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- lMARYl
+2025-06-09 17:44:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ZqGOmt
+2025-06-09 17:44:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- CfQYNq
+2025-06-09 17:44:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 17:44:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- Wmtk
+2025-06-09 17:44:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 17:44:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 17:44:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 17:44:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 17:46:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 17:46:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 17:46:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 17:46:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 17:46:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 17:46:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 17:46:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 17:46:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- mCgRJeTVxphA
+2025-06-09 17:46:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ykxu
+2025-06-09 17:46:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- NbH
+2025-06-09 17:46:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 17:46:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 17:46:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 17:46:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 17:46:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- TLCBGQcytbUplhMSCQum
+2025-06-09 17:46:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 17:46:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 17:46:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- mnqeub
+2025-06-09 17:46:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 7783998667
+2025-06-09 17:46:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- IAORyM
+2025-06-09 17:46:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- DUynHo
+2025-06-09 17:46:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- OJUikJ
+2025-06-09 17:46:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- aCrPIZ
+2025-06-09 17:46:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- UhLFXx
+2025-06-09 17:46:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 17:46:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- zpau
+2025-06-09 17:46:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 17:46:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 17:46:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 17:47:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\_validateCreatedContact_20250609_174646.png
+2025-06-09 17:47:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 17:47:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 17:57:30 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 17:57:32 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 17:57:32 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 17:57:35 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 17:57:36 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 17:57:40 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 17:57:42 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- bDBwRHzapNvj
+2025-06-09 17:57:42 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- YKxQ
+2025-06-09 17:57:42 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- qPZ
+2025-06-09 17:57:42 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 17:57:43 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 17:57:44 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 17:57:45 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 17:57:46 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- FriKJuxaCZbhpmApatSR
+2025-06-09 17:57:47 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 17:57:48 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 17:57:48 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- gGXpGI
+2025-06-09 17:57:48 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 9376135339
+2025-06-09 17:57:48 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VJLCwG
+2025-06-09 17:57:48 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- fZsnpA
+2025-06-09 17:57:49 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- WqaYhf
+2025-06-09 17:57:49 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xRCevr
+2025-06-09 17:57:49 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- jnAZTA
+2025-06-09 17:57:50 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 17:57:51 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- oCNd
+2025-06-09 17:57:52 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 17:57:55 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 17:57:55 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 17:57:56 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_175756.png
+2025-06-09 17:57:57 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 17:57:57 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 18:12:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 18:12:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 18:12:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 18:12:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 18:12:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 18:12:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 18:12:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 18:12:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- fGuytkEChtSf
+2025-06-09 18:12:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VCTp
+2025-06-09 18:12:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- cty
+2025-06-09 18:12:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 18:12:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 18:12:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 18:12:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 18:12:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- tzeOyGYSWiLhULLiVOVJ
+2025-06-09 18:12:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 18:12:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 18:12:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- tNQWqd
+2025-06-09 18:12:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 8052267801
+2025-06-09 18:12:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- BibMkT
+2025-06-09 18:12:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- YtDZHC
+2025-06-09 18:12:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- BDsTfs
+2025-06-09 18:12:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- NraHhj
+2025-06-09 18:12:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- LYVvrY
+2025-06-09 18:12:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 18:12:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ZXpO
+2025-06-09 18:12:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 18:12:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 18:12:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 18:13:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_181300.png
+2025-06-09 18:13:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 18:13:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 18:30:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 18:30:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 18:30:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 18:30:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 18:30:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 18:30:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 18:30:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 18:30:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- wUOUtRPDEfDW
+2025-06-09 18:30:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- SJWr
+2025-06-09 18:30:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- mai
+2025-06-09 18:30:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 18:30:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 18:30:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 18:30:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 18:30:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- NiBWnocNVDePaCWJviiM
+2025-06-09 18:30:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 18:30:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 18:30:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- wlEgGA
+2025-06-09 18:30:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 8507063012
+2025-06-09 18:30:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- WFNePl
+2025-06-09 18:30:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- jlebrv
+2025-06-09 18:30:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- XqMcjz
+2025-06-09 18:30:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ACsyEo
+2025-06-09 18:30:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- OpSESS
+2025-06-09 18:30:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 18:30:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- vOUP
+2025-06-09 18:30:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 18:30:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 18:30:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 18:30:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_183037.png
+2025-06-09 18:30:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 18:30:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 18:39:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 18:39:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 18:39:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 18:39:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 18:39:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 18:39:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 18:39:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 18:39:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- WtWkrgUPqIvk
+2025-06-09 18:39:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VkEW
+2025-06-09 18:39:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- geM
+2025-06-09 18:39:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 18:39:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 18:39:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 18:39:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 18:39:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- zIBeIDKoWaCwAabjPHQP
+2025-06-09 18:39:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 18:39:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 18:39:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- WuAmjA
+2025-06-09 18:39:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 7183440143
+2025-06-09 18:39:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VUkTwD
+2025-06-09 18:39:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- qOYwky
+2025-06-09 18:39:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- dEvcXj
+2025-06-09 18:39:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- vVRiFR
+2025-06-09 18:39:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- XitWpm
+2025-06-09 18:39:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 18:39:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- mxoD
+2025-06-09 18:39:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 18:39:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 18:39:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 18:39:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_183933.png
+2025-06-09 18:39:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 18:39:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 18:42:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 18:42:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 18:42:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 18:42:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 18:42:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 18:42:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 18:42:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 18:42:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- TnkHFYMnhnOF
+2025-06-09 18:42:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- kXbT
+2025-06-09 18:42:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- hal
+2025-06-09 18:42:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 18:42:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 18:42:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 18:42:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 18:42:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- zWQfmBPOYIMvHbaHrpHi
+2025-06-09 18:42:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 18:42:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 18:42:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- oPWDwm
+2025-06-09 18:42:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 8669878309
+2025-06-09 18:42:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- PHBkon
+2025-06-09 18:42:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- fBikAm
+2025-06-09 18:42:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- josRRT
+2025-06-09 18:42:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- MPbarQ
+2025-06-09 18:42:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- KrwLiQ
+2025-06-09 18:42:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 18:42:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- NgGE
+2025-06-09 18:42:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 18:42:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 18:42:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 18:42:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_184235.png
+2025-06-09 18:42:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 18:42:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 18:50:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 18:50:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 18:50:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 18:50:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 18:50:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 18:50:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 18:50:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 18:50:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- TfAvwMxdRSnY
+2025-06-09 18:50:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- RTvX
+2025-06-09 18:50:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- Fsa
+2025-06-09 18:50:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 18:50:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 18:50:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 18:50:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 18:50:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- dHhpmbHdNuBkTYTWUgGw
+2025-06-09 18:50:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 18:50:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 18:50:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- wYOYON
+2025-06-09 18:50:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 8398363935
+2025-06-09 18:50:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- dxheby
+2025-06-09 18:50:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- dgbhJy
+2025-06-09 18:50:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- QfwGVR
+2025-06-09 18:50:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- WpoTIb
+2025-06-09 18:50:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- oIumvS
+2025-06-09 18:50:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 18:50:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- Gtnv
+2025-06-09 18:50:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 18:50:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 18:50:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 18:50:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_185039.png
+2025-06-09 18:50:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 18:50:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 18:51:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 18:51:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 18:51:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 18:51:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 18:51:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 18:51:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 18:52:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 18:52:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- cHyaHilxkIJN
+2025-06-09 18:52:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- lLEo
+2025-06-09 18:52:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- nkE
+2025-06-09 18:52:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 18:52:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 18:52:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 18:52:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 18:52:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- hRPYfAYndtyEjsopzHoL
+2025-06-09 18:52:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 18:52:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 18:52:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- fCOthE
+2025-06-09 18:52:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 7006524883
+2025-06-09 18:52:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- SgugtN
+2025-06-09 18:52:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- HOoMNp
+2025-06-09 18:52:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- bHGoey
+2025-06-09 18:52:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- LhHJFJ
+2025-06-09 18:52:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- fsdFuK
+2025-06-09 18:52:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 18:52:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- MjYX
+2025-06-09 18:52:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 18:52:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 18:52:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 18:52:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_185218.png
+2025-06-09 18:52:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 18:52:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 19:01:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 19:01:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 19:01:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 19:01:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 19:01:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 19:01:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 19:01:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 19:01:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- HfpnwzVYgRPg
+2025-06-09 19:01:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- JPMR
+2025-06-09 19:01:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ynJ
+2025-06-09 19:01:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 19:01:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 19:01:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 19:01:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 19:01:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- drSBCQOxuURQnfpQTPuP
+2025-06-09 19:01:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 19:01:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 19:01:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- MsrEye
+2025-06-09 19:01:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 7169604339
+2025-06-09 19:01:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- pstvCq
+2025-06-09 19:01:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- zYEIaJ
+2025-06-09 19:01:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- KSHkHU
+2025-06-09 19:01:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- GendSO
+2025-06-09 19:01:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- pJMWMP
+2025-06-09 19:01:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 19:01:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- hFAg
+2025-06-09 19:01:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 19:01:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 19:01:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 19:01:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_190140.png
+2025-06-09 19:01:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 19:02:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 19:09:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 19:09:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 19:09:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 19:09:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 19:09:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 19:09:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 19:10:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 19:10:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VFEvTqObCSdw
+2025-06-09 19:10:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- lPOS
+2025-06-09 19:10:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- sdw
+2025-06-09 19:10:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 19:10:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 19:10:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 19:10:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 19:10:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ZAxOYOMsAdNafQXAqobr
+2025-06-09 19:10:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 19:10:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 19:10:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- arfASK
+2025-06-09 19:10:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 9419076405
+2025-06-09 19:10:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xKRJsU
+2025-06-09 19:10:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- aGnbcr
+2025-06-09 19:10:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- aooeGG
+2025-06-09 19:10:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ImJvmE
+2025-06-09 19:10:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- YdAMPS
+2025-06-09 19:10:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 19:10:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- jdVk
+2025-06-09 19:10:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 19:10:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 19:10:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 19:10:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_191021.png
+2025-06-09 19:10:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 19:10:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 19:16:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 19:16:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 19:16:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 19:16:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 19:16:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 19:16:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 19:16:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 19:16:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- BGSajdYVczdT
+2025-06-09 19:16:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- slBL
+2025-06-09 19:16:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- IZC
+2025-06-09 19:16:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 19:16:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 19:16:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 19:16:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 19:16:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- nLMcCugHzKncURpLECvc
+2025-06-09 19:16:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 19:16:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 19:16:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- kKroIj
+2025-06-09 19:16:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 7849700878
+2025-06-09 19:16:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- YVuCPa
+2025-06-09 19:16:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- yttLfF
+2025-06-09 19:16:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- Jzpllq
+2025-06-09 19:16:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- bsfPdk
+2025-06-09 19:16:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- POLnjC
+2025-06-09 19:16:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 19:16:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- iMik
+2025-06-09 19:16:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 19:16:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 19:16:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 19:16:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_191647.png
+2025-06-09 19:16:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 19:16:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 19:18:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 19:18:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 19:18:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 19:18:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 19:18:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 19:18:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 19:18:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 19:18:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- FvIRHgoiWgfa
+2025-06-09 19:18:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- QTMv
+2025-06-09 19:18:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- SXT
+2025-06-09 19:18:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 19:18:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 19:18:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 19:18:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 19:18:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- zeRPJEOtsWqdzFQLhKvO
+2025-06-09 19:18:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 19:18:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 19:18:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- hnJEHZ
+2025-06-09 19:18:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 8120722214
+2025-06-09 19:18:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- BIJPXr
+2025-06-09 19:18:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VExaMv
+2025-06-09 19:18:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- OQzhGM
+2025-06-09 19:18:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- QYtRYh
+2025-06-09 19:18:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- GQINRL
+2025-06-09 19:18:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 19:18:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- utPa
+2025-06-09 19:18:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 19:18:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 19:18:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 19:18:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_191850.png
+2025-06-09 19:18:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 19:18:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 19:24:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 19:24:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 19:24:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 19:24:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 19:24:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 19:24:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 19:24:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 19:24:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- jJrzPhVNgwCH
+2025-06-09 19:24:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- qlHn
+2025-06-09 19:24:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- yXp
+2025-06-09 19:24:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 19:24:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 19:24:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 19:24:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 19:24:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- zeGbNImacvepUTISoVLI
+2025-06-09 19:24:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 19:24:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 19:24:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- hIsCkP
+2025-06-09 19:24:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 9584469193
+2025-06-09 19:24:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- rbyrec
+2025-06-09 19:24:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- IPNudd
+2025-06-09 19:24:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- QkDeWy
+2025-06-09 19:24:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- jCEqvk
+2025-06-09 19:24:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ZgvRET
+2025-06-09 19:24:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 19:24:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- OFUu
+2025-06-09 19:24:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 19:24:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 19:24:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 19:25:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_192500.png
+2025-06-09 19:25:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 19:25:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 19:33:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 19:33:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 19:33:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 19:33:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 19:34:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 19:34:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 19:34:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 19:34:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- PbBogPQnkdHP
+2025-06-09 19:34:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- zqKv
+2025-06-09 19:34:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- kdc
+2025-06-09 19:34:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 19:34:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 19:34:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 19:34:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 19:34:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- FKVJVtUjLDnLZInHomrY
+2025-06-09 19:34:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 19:34:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 19:34:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- AzHjBl
+2025-06-09 19:34:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 9853400042
+2025-06-09 19:34:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- TLOgqu
+2025-06-09 19:34:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- DrObEe
+2025-06-09 19:34:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- bdbHJm
+2025-06-09 19:34:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- QvQWOH
+2025-06-09 19:34:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VDISak
+2025-06-09 19:34:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 19:34:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- arjs
+2025-06-09 19:34:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 19:34:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 19:34:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 19:34:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_193430.png
+2025-06-09 19:34:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 19:34:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-09 19:35:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-09 19:35:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-09 19:35:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-09 19:35:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-09 19:36:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-09 19:36:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-09 19:36:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-09 19:36:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- PRpYbzjLcEMP
+2025-06-09 19:36:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- gpgE
+2025-06-09 19:36:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- fvb
+2025-06-09 19:36:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-09 19:36:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-09 19:36:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-09 19:36:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-09 19:36:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- azVriItnObFUClvhQPkl
+2025-06-09 19:36:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-09 19:36:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-09 19:36:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- gltSBS
+2025-06-09 19:36:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 7627101309
+2025-06-09 19:36:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- DbyTgk
+2025-06-09 19:36:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VHwQnZ
+2025-06-09 19:36:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- wchUHM
+2025-06-09 19:36:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- rNHNOq
+2025-06-09 19:36:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- YYZZsR
+2025-06-09 19:36:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-09 19:36:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- youz
+2025-06-09 19:36:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-09 19:36:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-09 19:36:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-09 19:36:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-09\validateCreatedContact_20250609_193625.png
+2025-06-09 19:36:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-09 19:36:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 10:06:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 10:06:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 10:06:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 10:06:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 10:07:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 10:07:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 10:07:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 10:07:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- jIsgwCmPobnP
+2025-06-10 10:07:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- HOUX
+2025-06-10 10:07:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- vKd
+2025-06-10 10:07:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-10 10:07:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 10:07:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-10 10:07:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-10 10:07:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- qymmoGWylhurJycpOpox
+2025-06-10 10:07:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-10 10:07:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-10 10:07:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- IkmjJK
+2025-06-10 10:07:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 7881941560
+2025-06-10 10:07:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- mFcXdV
+2025-06-10 10:07:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- PyOdNW
+2025-06-10 10:07:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- vnWWTv
+2025-06-10 10:07:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- TYOkDz
+2025-06-10 10:07:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- OSrgRC
+2025-06-10 10:07:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-10 10:07:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- bTnb
+2025-06-10 10:07:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 10:07:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-10 10:07:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 10:07:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\validateCreatedContact_20250610_100727.png
+2025-06-10 10:07:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 10:07:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 10:09:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 10:09:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 10:10:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 10:10:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 10:10:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 10:10:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 10:10:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 10:10:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- lWzgIqDRVhUH
+2025-06-10 10:10:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- orir
+2025-06-10 10:10:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- EqM
+2025-06-10 10:10:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-10 10:10:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 10:10:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-10 10:10:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-10 10:10:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- JuXNdWDtFxHbLSqkFMIM
+2025-06-10 10:10:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-10 10:10:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-10 10:10:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- UlWrWx
+2025-06-10 10:10:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 9915563751
+2025-06-10 10:10:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- SCCETo
+2025-06-10 10:10:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- vcwBmb
+2025-06-10 10:10:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- bIiSsJ
+2025-06-10 10:10:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- RUJIEm
+2025-06-10 10:10:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- fxMBam
+2025-06-10 10:10:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-10 10:10:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- nHBT
+2025-06-10 10:10:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 10:10:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-10 10:10:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 10:10:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 10:12:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 10:12:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 10:12:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 10:12:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 10:12:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 10:12:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 10:12:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 10:12:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- MOdOAOSubQXa
+2025-06-10 10:12:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- EvCF
+2025-06-10 10:12:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- QPH
+2025-06-10 10:12:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-10 10:12:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 10:12:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-10 10:12:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-10 10:12:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- JtaXIJRwaBEFTQDsrHHc
+2025-06-10 10:12:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-10 10:12:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-10 10:12:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- etbFxC
+2025-06-10 10:12:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 7922170616
+2025-06-10 10:12:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xFZRZX
+2025-06-10 10:12:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- QHocyM
+2025-06-10 10:12:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- eSZcIb
+2025-06-10 10:12:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- kKEKzJ
+2025-06-10 10:12:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- vHPqVG
+2025-06-10 10:12:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-10 10:12:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- nlqD
+2025-06-10 10:12:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 10:12:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-10 10:12:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 10:12:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 10:17:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 10:17:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 10:17:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 10:17:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 10:17:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 10:17:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 10:17:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 10:17:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- wzxQuoEKiEaL
+2025-06-10 10:17:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- aaWg
+2025-06-10 10:17:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- kJJ
+2025-06-10 10:17:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-10 10:17:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 10:17:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-10 10:17:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-10 10:17:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- iWYqIvXvMplEKXdBVmgc
+2025-06-10 10:17:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-10 10:17:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-10 10:17:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ObxKgm
+2025-06-10 10:17:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 9129565026
+2025-06-10 10:17:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- wxFvyI
+2025-06-10 10:17:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- LmVyHu
+2025-06-10 10:17:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- dpTkJs
+2025-06-10 10:17:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- KcStkv
+2025-06-10 10:17:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- hSqySV
+2025-06-10 10:17:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-10 10:17:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- EsEA
+2025-06-10 10:17:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 10:17:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-10 10:17:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 10:17:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 10:42:56 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 10:42:59 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 10:42:59 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 10:43:01 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 10:50:09 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 10:50:13 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 10:50:13 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 10:50:14 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 10:55:03 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 10:55:06 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 10:55:06 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 10:55:07 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 10:55:50 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 10:55:53 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 10:55:53 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 10:55:54 [main] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 11:36:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 11:36:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 11:36:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 11:36:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 11:36:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 11:36:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 11:39:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 11:39:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xVaLYGRvaG
+2025-06-10 11:39:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='calendarField react-datepicker-ignore-onclickoutside']"}
+  (Session info: chrome=137.0.7151.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e6e5265a3ce6759b59778a99a6f9d8fa, findElement {value=//input[@class='calendarField react-datepicker-ignore-onclickoutside'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\GANGAD~1.B\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55143}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55143/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e6e5265a3ce6759b59778a99a6f9d8fa
+2025-06-10 11:39:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 11:39:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_113948.png
+2025-06-10 11:44:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 11:44:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 11:44:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 11:44:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 11:44:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 11:44:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 11:44:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 11:45:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- gKYUFBzkId
+2025-06-10 11:45:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='calendarField react-datepicker-ignore-onclickoutside']"}
+  (Session info: chrome=137.0.7151.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [29b6fb80e96764ec2937612373f0b0f8, findElement {using=xpath, value=//input[@class='calendarField react-datepicker-ignore-onclickoutside']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\GANGAD~1.B\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55469}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55469/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 29b6fb80e96764ec2937612373f0b0f8
+2025-06-10 11:46:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 11:46:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_114606.png
+2025-06-10 11:46:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 11:46:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 11:51:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 11:51:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 11:51:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 11:51:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 11:52:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 11:52:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 11:52:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 11:52:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- wKZzGkrWaI
+2025-06-10 12:36:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ucHlUwDBZn
+2025-06-10 12:36:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='calendarField react-datepicker-ignore-onclickoutside']"}
+  (Session info: chrome=137.0.7151.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [77b9d92164df08a257148429cb738e5a, findElement {value=//input[@class='calendarField react-datepicker-ignore-onclickoutside'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\GANGAD~1.B\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55771}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55771/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 77b9d92164df08a257148429cb738e5a
+2025-06-10 12:36:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 12:36:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_123629.png
+2025-06-10 12:36:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 12:36:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 12:38:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 12:38:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 12:38:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 12:38:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 12:38:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 12:38:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 12:38:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 12:38:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- FQudlYQEhk
+2025-06-10 12:38:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='calendarField react-datepicker-ignore-onclickoutside']"}
+  (Session info: chrome=137.0.7151.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cb8a434375210831fac7ab98d2949de5, findElement {using=xpath, value=//input[@class='calendarField react-datepicker-ignore-onclickoutside']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\GANGAD~1.B\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57065}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57065/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cb8a434375210831fac7ab98d2949de5
+2025-06-10 12:38:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 12:38:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_123850.png
+2025-06-10 12:38:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 12:38:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 12:39:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 12:39:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 12:39:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 12:39:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 12:40:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 12:40:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 12:40:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 12:41:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- KbJOJSjfiu
+2025-06-10 12:41:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='calendarField react-datepicker-ignore-onclickoutside']"}
+  (Session info: chrome=137.0.7151.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9547ef5f90e708f6983137faa353b3b5, findElement {value=//input[@class='calendarField react-datepicker-ignore-onclickoutside'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\GANGAD~1.B\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57116}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57116/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9547ef5f90e708f6983137faa353b3b5
+2025-06-10 12:45:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 12:45:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_124558.png
+2025-06-10 12:45:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 12:45:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 12:46:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 12:46:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 12:46:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 12:46:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 12:46:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 12:46:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 12:46:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 12:46:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- GkRmHDrObX
+2025-06-10 12:47:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 12:47:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 12:52:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 12:53:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 12:54:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed to perform Calender input as :Sat Jun 07 00:15:00 IST 2025
+2025-06-10 12:54:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 12:54:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 12:54:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed to perform Calender input as :Sat Jun 07 03:30:00 IST 2025
+2025-06-10 12:54:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed to select the dropdown Option as-- Meeting
+2025-06-10 12:54:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- mFblSiFhVuKxpHrjZXxd
+2025-06-10 12:54:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- FnOEcHtIvSvqOxeHnSDm
+2025-06-10 12:54:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 12:54:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='ui linkedin button' and contains(text(),'Save')]"}
+  (Session info: chrome=137.0.7151.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [947bf17117342a85014dac8a6a013030, findElement {value=//button[@class='ui linkedin button' and contains(text(),'Save')], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\GANGAD~1.B\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57307}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57307/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 947bf17117342a85014dac8a6a013030
+2025-06-10 12:54:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 12:54:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_125433.png
+2025-06-10 12:54:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 12:54:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 13:01:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 13:01:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 13:01:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 13:01:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 13:01:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 13:01:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 13:01:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 13:01:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- NkZfucevGp
+2025-06-10 13:01:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 13:01:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 13:04:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 13:13:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 14:48:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 14:48:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed to capture screenshot: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=137.0.7151.69)
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [561645581c7b3397a4ffaa8782983552, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\GANGAD~1.B\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57587}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57587/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 561645581c7b3397a4ffaa8782983552
+2025-06-10 14:50:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 14:50:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 14:50:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 14:50:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 14:50:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 14:50:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 14:50:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 14:50:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- zqBPJBtgNJ
+2025-06-10 14:50:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 14:50:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 14:52:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 14:53:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 14:55:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:03:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:06:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:08:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:09:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:11:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:12:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:13:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 15:13:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:13:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed to select the dropdown Option as-- Meeting
+2025-06-10 15:13:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- NnorGbORhYcMcmWIDnlt
+2025-06-10 15:13:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- GMTURVRpnoTCEbjdpVhq
+2025-06-10 15:13:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 15:13:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 15:13:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 15:13:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_151347.png
+2025-06-10 15:13:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 15:13:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 15:27:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 15:27:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 15:27:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 15:27:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 15:27:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 15:27:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 15:27:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 15:27:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- DuHArTbpWs
+2025-06-10 15:27:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 15:27:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:28:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 15:28:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:28:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed to select the dropdown Option as-- Meeting
+2025-06-10 15:28:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- MsnUoCWyvgEoeSEIynmX
+2025-06-10 15:28:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- LIktQAcbADShxZTQeDbO
+2025-06-10 15:28:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 15:28:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 15:28:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 15:28:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_152859.png
+2025-06-10 15:28:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 15:29:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 15:29:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 15:29:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 15:29:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 15:29:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 15:29:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 15:29:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 15:29:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 15:29:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- LLNWoKOnPk
+2025-06-10 15:29:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 15:30:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:30:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:32:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:32:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed to perform Calender input as :Thu Jul 10 01:45:00 IST 2025
+2025-06-10 15:32:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 15:32:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 15:32:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-10 15:32:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- TxZvLgCWhnxojVyUWbuE
+2025-06-10 15:32:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- cxTbKXZpuYaIlIhcjQgR
+2025-06-10 15:32:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 15:32:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 15:32:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 15:32:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_153210.png
+2025-06-10 15:32:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 15:32:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 15:45:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 15:45:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 15:45:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 15:45:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 15:45:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 15:45:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 15:46:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 15:46:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VPKZXjDzvY
+2025-06-10 15:46:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 15:46:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 16:18:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 16:18:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 16:18:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 16:18:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 16:18:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 16:18:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 16:18:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 16:18:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- aREkzIMiFb
+2025-06-10 16:18:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 16:19:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 16:33:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 16:33:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 16:33:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 16:33:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 16:33:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 16:33:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 16:33:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 16:33:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- RvtXgrWKle
+2025-06-10 16:33:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 16:33:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 16:35:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 16:35:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 16:35:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-10 16:35:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- kIRqTGCTStRaMjXIZejz
+2025-06-10 16:35:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- AdNfbhbFZXYMlFoWncbj
+2025-06-10 16:35:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 16:35:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 16:36:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Events
+2025-06-10 16:38:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='ui linkedin button' and contains(text(),'Events')]"}
+  (Session info: chrome=137.0.7151.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d541f1f2530ca87dde4adeb9ff5f53bf, findElement {using=xpath, value=//button[@class='ui linkedin button' and contains(text(),'Events')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\GANGAD~1.B\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64665}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64665/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d541f1f2530ca87dde4adeb9ff5f53bf
+2025-06-10 16:38:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 16:38:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_163835.png
+2025-06-10 16:38:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 16:38:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 16:40:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 16:40:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 16:40:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 16:40:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 16:40:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 16:40:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 16:40:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 16:40:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- mZUsUnFuhv
+2025-06-10 16:40:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 16:40:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 16:40:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 16:40:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 16:40:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-10 16:40:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- UwxiqcLwDupKNwbuVIFA
+2025-06-10 16:40:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VZRQogBaEMJbFBlSmahB
+2025-06-10 16:40:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 16:41:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 16:41:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 16:41:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_164146.png
+2025-06-10 16:41:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 16:41:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 16:43:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 16:43:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 16:43:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 16:43:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 16:43:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 16:44:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 16:44:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 16:44:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- KiTQfpxzqk
+2025-06-10 16:44:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 16:44:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 16:44:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 16:44:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 16:44:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-10 16:44:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- SYQHnuJDLRCMjnYwdLwI
+2025-06-10 16:44:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- UXrBKsBgrZIlgJkOMGCJ
+2025-06-10 16:44:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 16:44:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 16:44:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Events
+2025-06-10 16:46:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - no such element: Unable to locate element: {"method":"xpath","selector":"//button[@class='ui linkedin button' and contains(text(),'Events')]"}
+  (Session info: chrome=137.0.7151.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.32.0', revision: 'd17c8aa950'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1a18c20130d4cef7384c0191c4996415, findElement {using=xpath, value=//button[@class='ui linkedin button' and contains(text(),'Events')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\GANGAD~1.B\AppData...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64827}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64827/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a18c20130d4cef7384c0191c4996415
+2025-06-10 16:48:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 16:48:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_164831.png
+2025-06-10 16:48:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 16:48:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 17:00:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 17:00:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 17:00:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 17:00:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 17:00:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 17:00:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 17:00:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='user-display']' (tried for 2 second(s) with 500 milliseconds interval)
+2025-06-10 17:00:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 17:00:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_170019.png
+2025-06-10 17:00:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 17:00:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 17:01:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 17:01:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 17:01:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 17:01:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 17:01:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 17:01:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 17:01:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 17:01:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- JNKAPurbUZ
+2025-06-10 17:01:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 17:01:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 17:01:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 17:01:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 17:01:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-10 17:01:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- KZdXMVVzcnqnuNWbuHjs
+2025-06-10 17:01:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ROXBXTGVeqLrgaEJBHMg
+2025-06-10 17:01:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 17:01:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 17:01:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Events
+2025-06-10 17:01:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Clear
+2025-06-10 17:02:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- View
+2025-06-10 17:02:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Default View
+2025-06-10 17:03:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 17:03:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 17:05:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 17:05:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 17:05:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 17:05:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 17:05:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 17:05:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 17:05:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 17:05:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ZVxMRBsxfx
+2025-06-10 17:05:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 17:05:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 17:05:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 17:05:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 17:05:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-10 17:05:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- oFblLwMESpMGSDOfexZp
+2025-06-10 17:05:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- APdCgUXdHZCZLtDBCPYD
+2025-06-10 17:05:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 17:05:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 17:05:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Events
+2025-06-10 17:05:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Clear
+2025-06-10 17:05:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- View
+2025-06-10 17:05:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Default View
+2025-06-10 17:06:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 17:06:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 17:11:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 17:11:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 17:11:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 17:11:30 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 17:11:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 17:11:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 17:11:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 17:11:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- TsQmnOwGis
+2025-06-10 17:11:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 17:11:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 17:11:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 17:11:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 17:11:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-10 17:11:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- vgEhREvDlOrQUFGrWcoX
+2025-06-10 17:11:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- OMRLPjuasIFVYJuWScXh
+2025-06-10 17:11:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 17:11:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 17:11:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Events
+2025-06-10 17:11:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Clear
+2025-06-10 17:11:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- View
+2025-06-10 17:11:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Default View
+2025-06-10 17:11:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 17:11:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 17:15:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 17:15:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 17:15:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 17:15:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 17:15:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 17:15:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 17:16:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 17:16:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- uTgtITPvqN
+2025-06-10 17:16:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 17:16:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 17:16:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 17:16:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 17:16:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-10 17:16:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ChTKSheDsyRZgLVjKPFl
+2025-06-10 17:16:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- kkGDaKGUrHjHEmCdVfAr
+2025-06-10 17:16:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 17:16:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 17:16:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //i[@class='calendar alternate outline icon']/ancestor::span[contains(@class,'selectable')]' (tried for 2 second(s) with 500 milliseconds interval)
+2025-06-10 17:16:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-10 17:16:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-10\unknownMethod_20250610_171618.png
+2025-06-10 17:16:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 17:16:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 17:17:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 17:17:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 17:17:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 17:17:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 17:17:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 17:17:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 17:17:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 17:17:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- QdfTjmgCTf
+2025-06-10 17:17:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 17:17:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 17:17:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 17:17:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 17:17:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-10 17:17:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- smynqtcCFXGZcjzvOcNr
+2025-06-10 17:17:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- LZMbydxPAUlIseDqepib
+2025-06-10 17:17:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 17:17:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 17:17:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Events
+2025-06-10 17:17:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Clear
+2025-06-10 17:17:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- View
+2025-06-10 17:17:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Default View
+2025-06-10 17:17:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 17:17:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-10 17:26:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-10 17:26:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-10 17:27:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-10 17:27:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-10 17:27:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-10 17:27:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-10 17:27:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-10 17:27:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- HkhsOfBUdJ
+2025-06-10 17:27:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 17:27:12 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 17:27:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-10 17:27:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-10 17:27:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-10 17:27:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- MIUsubRfdYhAMjhmRjuo
+2025-06-10 17:27:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xjrElPsZeTIRBzAJTjif
+2025-06-10 17:27:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-10 17:27:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-10 17:27:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Events
+2025-06-10 17:27:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Clear
+2025-06-10 17:27:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- View
+2025-06-10 17:27:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Default View
+2025-06-10 17:27:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-10 17:27:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-12 11:23:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-12 11:23:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-12 11:23:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-12 11:23:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-12 11:23:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-12 11:23:33 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-12 11:23:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-12 11:23:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- tkThvTQgSrFn
+2025-06-12 11:23:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- TOpQ
+2025-06-12 11:23:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- Rai
+2025-06-12 11:23:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-12 11:23:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-12 11:23:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-12 11:23:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-12 11:23:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- yPgJxyVkTxJQRPyxYOdX
+2025-06-12 11:23:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-12 11:23:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-12 11:23:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- nKaZuO
+2025-06-12 11:23:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 9957132467
+2025-06-12 11:23:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- QtFoHg
+2025-06-12 11:23:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- srXiWM
+2025-06-12 11:23:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- EpUZLS
+2025-06-12 11:23:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- fMQBTc
+2025-06-12 11:23:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- mqwAio
+2025-06-12 11:23:51 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-12 11:23:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- ivji
+2025-06-12 11:23:54 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-12 11:23:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-12 11:23:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-12 11:23:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-12 11:23:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-12 11:23:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-12 11:24:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-12 11:24:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-12 11:24:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-12 11:24:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-12 11:24:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-12 11:24:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- iFggzjcbFu
+2025-06-12 11:24:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-12 11:24:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-12 11:24:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-12 11:24:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-12 11:24:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-12 11:24:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- FFWdAeFxVujBMFaMzpTr
+2025-06-12 11:24:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- lVWAiXQdtQdSAAWkegSt
+2025-06-12 11:24:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-12 11:24:19 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-12 11:24:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Events
+2025-06-12 11:24:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Clear
+2025-06-12 11:24:25 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- View
+2025-06-12 11:24:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Default View
+2025-06-12 11:24:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-12 11:24:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-12 12:51:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-12 12:51:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-12 12:51:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-12 12:51:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-12 12:51:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-12 12:51:24 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-12 12:51:29 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-12 12:51:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- KoiLVzaZVOOs
+2025-06-12 12:51:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- JrJQ
+2025-06-12 12:51:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- shq
+2025-06-12 12:51:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-12 12:51:32 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-12 12:51:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-12 12:51:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-12 12:51:36 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- LbAfelYAeuwoBrHKSXck
+2025-06-12 12:51:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-12 12:51:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-12 12:51:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- zJTehT
+2025-06-12 12:51:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 7588407321
+2025-06-12 12:51:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- rDsCpq
+2025-06-12 12:51:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- AtalvH
+2025-06-12 12:51:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- YYEYpz
+2025-06-12 12:51:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VlLcDN
+2025-06-12 12:51:41 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- zRavsz
+2025-06-12 12:51:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-12 12:51:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- LKJr
+2025-06-12 12:51:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-12 12:51:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-12 12:51:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-12 12:51:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-12 12:51:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-12 12:51:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-12 12:51:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-12 12:51:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-12 12:51:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-12 12:51:56 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-12 12:52:00 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-12 12:52:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VwuGSkgFtw
+2025-06-12 12:52:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-12 12:52:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-12 12:52:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-12 12:52:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-12 12:52:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-12 12:52:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- prEcQcPPbNGhoDVVPYwA
+2025-06-12 12:52:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- GdyTWAYlfFGjGSdvoYze
+2025-06-12 12:52:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-12 12:52:10 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-12 12:52:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Events
+2025-06-12 12:52:15 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Clear
+2025-06-12 12:52:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- View
+2025-06-12 12:52:17 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Default View
+2025-06-12 12:52:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-12 12:52:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-12 13:13:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-12 13:13:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-12 13:13:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-12 13:13:40 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-12 13:13:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-12 13:13:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-12 13:13:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //span[@class='user-display']' (tried for 2 second(s) with 500 milliseconds interval)
+2025-06-12 13:13:48 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Capturing the failure Screenshot..
+2025-06-12 13:13:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Failed scenario's Screenshot saved at : D:\Automation_Redefined\CogmentocrmWeb_BDD\errorshots\2025-06-12\unknownMethod_20250612_131350.png
+2025-06-12 13:13:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-12 13:13:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-12 13:13:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-12 13:13:50 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-12 13:13:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-12 13:13:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-12 13:13:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-12 13:13:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-12 13:14:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-12 13:14:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- DCSXguocvk
+2025-06-12 13:14:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-12 13:14:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-12 13:14:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-12 13:14:08 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-12 13:14:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-12 13:14:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- mvLiFRAmcfgFKaFZEuCn
+2025-06-12 13:14:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- GonKbqqauiVielKPrXTW
+2025-06-12 13:14:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-12 13:14:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-12 13:14:18 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Events
+2025-06-12 13:14:20 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Clear
+2025-06-12 13:14:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- View
+2025-06-12 13:14:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Default View
+2025-06-12 13:14:22 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-12 13:14:23 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-12 13:27:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-12 13:27:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-12 13:27:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-12 13:27:39 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-12 13:27:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-12 13:27:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-12 13:27:49 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-12 13:27:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- MyjxPVguRCPT
+2025-06-12 13:27:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- VfEI
+2025-06-12 13:27:52 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- zio
+2025-06-12 13:27:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz
+2025-06-12 13:27:53 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-12 13:27:55 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Contact
+2025-06-12 13:27:57 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Active
+2025-06-12 13:27:58 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- pvtknJsiJXTXPrCzdoUb
+2025-06-12 13:27:59 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Facebook
+2025-06-12 13:28:01 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- https://ui.cogmento.com/contacts/new/
+2025-06-12 13:28:02 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- OIeGxm
+2025-06-12 13:28:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- 8517560004
+2025-06-12 13:28:03 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- Gvtucy
+2025-06-12 13:28:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- pjzVyH
+2025-06-12 13:28:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- zEfqlm
+2025-06-12 13:28:04 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- dOscYE
+2025-06-12 13:28:05 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- wYNmUU
+2025-06-12 13:28:06 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Google
+2025-06-12 13:28:07 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- satS
+2025-06-12 13:28:09 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-12 13:28:11 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- refresh icon
+2025-06-12 13:28:13 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-12 13:28:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
+2025-06-12 13:28:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Test Listner Started Successfully
+2025-06-12 13:28:14 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --- Started the WebDriver ---
+2025-06-12 13:28:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Launched the Chrome Browser...
+2025-06-12 13:28:16 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Maximized the Browser...
+2025-06-12 13:28:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Navigated to the Test URL...
+2025-06-12 13:28:21 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged into the Application...!
+2025-06-12 13:28:26 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Create
+2025-06-12 13:28:27 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- sWKUxMYmRj
+2025-06-12 13:28:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-12 13:28:28 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-12 13:28:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- calendarField
+2025-06-12 13:28:31 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performing calender Input
+2025-06-12 13:28:34 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Selected the dropdown option as-- Meeting
+2025-06-12 13:28:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- jiUHpRiBbAQvCtoqHHBg
+2025-06-12 13:28:35 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- biXzfNhTaRFTBWLWCBlc
+2025-06-12 13:28:37 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Text Input as-- xyz@gmail.com
+2025-06-12 13:28:38 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Save
+2025-06-12 13:28:42 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Events
+2025-06-12 13:28:43 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Clear
+2025-06-12 13:28:44 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- View
+2025-06-12 13:28:45 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Performed Click Action on Element-- Default View
+2025-06-12 13:28:46 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - Logged out of the Application...!
+2025-06-12 13:28:47 [TestNG-tests-1] INFO  cogmentoCRM.Web.utilities.LoggerUtil - --Killed the WebDriver--
