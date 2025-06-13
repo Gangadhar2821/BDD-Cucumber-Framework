@@ -100,6 +100,7 @@ Step 3: Run the project using the batch file
 ---
 ## 📸 Reports & Logs:
 📈 Allure Reports are generated under allure-results/ after test execution and can be viewed by  using the below CLI Command:
+
    allure serve "allure-results / directory path "
    
 📗 Cucumber HTML Reports with timestamps are also generated under the target/cucumber-reports directory.
