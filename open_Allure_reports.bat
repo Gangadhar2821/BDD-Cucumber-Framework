@@ -1,0 +1,3 @@
+@echo off
+echo 🚀 Launching Allure Report from specified path...
+allure serve D:\Automation_Redefined\CogmentocrmWeb_BDD\allure-results

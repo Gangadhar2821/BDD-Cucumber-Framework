@@ -4,70 +4,51 @@ import java.util.Map;
 
 import org.testng.Assert;
 
-import cogmentoCRM.Web.base.BaseTest;
-import cogmentoCRM.Web.base.StepTracker;
+import cogmentoCRM.Web.base.ScenarioContextManager;
+import cogmentoCRM.Web.base.TestContext;
 import cogmentoCRM.Web.pageObjects.CreateNewContactPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import io.qameta.allure.Description;
-import io.qameta.allure.Epic;
-import io.qameta.allure.Feature;
-import io.qameta.allure.Severity;
-import io.qameta.allure.SeverityLevel;
-import io.qameta.allure.Story;
 
-@Epic("Contact Module")
-@Feature("Create Contact")
-public class AddNewContact extends BaseTest {
+public class AddNewContact {
+	private final TestContext context;
 
-	private static Map<String, String> data;
-
-	@Story("As A user I can validate the Successful Login by presence of User Logo")
-	@Severity(SeverityLevel.BLOCKER)
-	@Description("This Test validates that the user is successfully Logged into to the Application")
-	@Given("User is on the Home Page")
-	public void validateHomePage() {
-		Assert.assertTrue(homePage.getLogo_Username().isDisplayed(), "User is not on HomePage");
+	public AddNewContact() {
+		this.context = ScenarioContextManager.getContext(); // Pulls context for this thread
 	}
 
-	@Story("The web Page is navigated to Create contact page ")
-	@Severity(SeverityLevel.NORMAL)
-	@Description("This Tests navigates to the CreateContact page")
-	@When("User clicks on the Add Contacts icon from the main menu")
-	public void navigateToCreateContactPage() {
-		homePage.clickIcon_Contacts();
-		contactsPage.clickBtnCreateContact();
+	@Given("the user is on the Home page")
+	public void verifyUserIsOnHomePage() {
+		Assert.assertTrue(context.getHomePage().getLogo_Username().isDisplayed(), "User is not on HomePage");
 	}
 
-	@Story("Validates CreateContact page")
-	@When("User should be navigated to the Create New Contact page")
-	public void validateCreateContactPage() {
-		Assert.assertTrue(createNewContactpage.getLogo_screenTitle().isDisplayed(),
-				"User failed to navigate to the CreateContact Page");
+	@When("the user navigates to the Contacts page")
+	public void navigateToContactPage() {
+		context.getHomePage().clickIcon_Contacts();
 	}
 
-	@Story("Filling all the mandatory fields")
-	@When("User enters data in all mandatory fields")
-	public void fillContactDetails() {
-		StepTracker.setCurrentMethod("fillContactDetails");
-		data = excelUtil.getTestDataForMethod("fillContactDetails");
-		createNewContactpage.fillContactDetails(data);
-
+	@When("clicks on the Create button")
+	public void clickCreateButton() {
+		context.getContactsPage().clickBtnCreateContact();
 	}
 
-	@Story("Saving the Contact")
-	@When("User Clicks on Save button")
-	public void clickSaveBtn() {
-		createNewContactpage.saveContact();
+	@When("fills in all the required contact details")
+	public void enterNewContactDetails() {
+		Map<String, String> data = context.getExcelUtil().getTestDataForMethod("enterNewContactDetails");
+		context.getCreateNewContactPage().fillContactDetails(data);
 	}
 
-	@Story("Validates the Created Contact")
-	@Then("Contact should be added to the list in the Contacts page")
-	public void validateCreatedContact() {
-		StepTracker.setCurrentMethod("validateCreatedContact");
-		homePage.clickIcon_Contacts();
-		contactsPage.validateCreatedContact(CreateNewContactPage.referenceValue);
-
+	@When("submits the form")
+	public void clickSaveButton() {
+		context.getCreateNewContactPage().clickSaveBtn();
 	}
+
+	@Then("the new contact should appear in the contact list")
+	public void verifyCreatedContactInList() {
+		context.getHomePage().clickIcon_Contacts();
+		context.getCreateNewContactPage();
+		context.getContactsPage().validateCreatedContact(CreateNewContactPage.referenceValue);
+	}
+
 }

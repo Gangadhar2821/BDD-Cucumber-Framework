@@ -21,20 +21,28 @@ public class HomePage extends BasePage {
 	@FindBy(xpath = "//i[@class='users icon']/parent::a")
 	private WebElement icon_Contacts;
 
-	@FindBy(xpath = "//i[@class='users icon']/parent::a/following-sibling::button")
-	private WebElement icon_AddContacts;
-
 	@FindBy(xpath = "//i[@class='settings icon' ]/parent::div")
 	private WebElement icon_Settings;
 
 	@FindBy(xpath = "//a[@role='option']/span[contains(text(),'Out')]")
 	private WebElement btn_Logout;
 
-	@FindBy(xpath = "//i[@class='calendar icon']")
+	@FindBy(xpath = "//span[normalize-space()='Calendar']")
 	private WebElement icon_Calender;
+
+	@FindBy(xpath = "//i[@class='money icon']")
+	private WebElement icon_Deals;
 
 	public WebElement getIcon_Calender() {
 		return icon_Calender;
+	}
+
+	public WebElement getIcon_Deals() {
+		return icon_Deals;
+	}
+
+	public void clickIcon_Deals() {
+		elementActions.clickElement(icon_Deals);
 	}
 
 	public WebElement getLogo_Username() {
@@ -48,10 +56,6 @@ public class HomePage extends BasePage {
 
 	public WebElement getIcon_Contacts() {
 		return icon_Contacts;
-	}
-
-	public WebElement getIcon_AddContacts() {
-		return icon_AddContacts;
 	}
 
 	public WebElement getIcon_Settings() {
@@ -72,20 +76,16 @@ public class HomePage extends BasePage {
 
 	public void clickIcon_Contacts() {
 		try {
-			elementActions.waitForElementToBeVisible(icon_Contacts, 2);
-			elementActions.jsClick(driver, icon_Contacts);
+			elementActions.waitForElementToBeClickable(icon_Contacts, 2);
+			elementActions.clickElement(icon_Contacts);
 		} catch (Exception e) {
 			log.error(e.getMessage() + "Failed to click on AddContacts");
 		}
 	}
 
-	public void clickIcon_AddContacts() {
-		elementActions.jsClick(driver, icon_AddContacts);
-	}
-
 	public void clickIcon_Calender() {
-		elementActions.waitForElementToBeVisible(icon_Contacts, 2);
-		elementActions.jsClick(driver, icon_Calender);
+		elementActions.waitForElementToBeClickable(icon_Calender, 3);
+		elementActions.clickElement(icon_Calender);
 	}
 
 }

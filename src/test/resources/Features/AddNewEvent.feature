@@ -1,13 +1,18 @@
+@Events @Regression @UI
 Feature: 
-  Add the New Event in Cogmento CRM Portal
+  Manage Events
+  
+  As a CRM user
+  I want to manage my Events
+  So that I can organize events and Schedule them efficiently
 
+ @AddEvent @Regression
   Scenario: 
-    Create a new event and verify it appears on the calendar
+    Add New Event and validate it is listed
 
-    Given the user is on the Home Page
-    When the user clicks the Calendar icon from the main menu
-    And the user clicks the Create Event button
-    And the user enters data in all mandatory fields
-    And the user clicks the Save button
-    Then the user should be navigated to the Event details page
-    And the user should see the event displayed in the Calendar
+    Given The User is on HomePage
+    And The user navigates to the Calender Page
+    And The user click on Create button
+    And The user fills in all the required fields
+    And The user saves the Event
+    Then The Event should be add to the Event list

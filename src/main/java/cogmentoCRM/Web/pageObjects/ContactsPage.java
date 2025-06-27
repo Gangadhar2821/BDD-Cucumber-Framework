@@ -18,7 +18,7 @@ public class ContactsPage extends BasePage {
 	@FindBy(xpath = "//table//td//a[contains(text(),'')]")
 	private List<WebElement> filteredContacts_FirstNames;
 
-	@FindBy(xpath = "//button[@class='ui linkedin button' and contains(text(),'Create')]")
+	@FindBy(xpath = "//button[contains(text(),'Create')]")
 	private WebElement btn_createContact;
 
 	@FindBy(xpath = "//button[normalize-space()='Show Filters']")
@@ -50,11 +50,13 @@ public class ContactsPage extends BasePage {
 	}
 
 	public void clickBtnCreateContact() {
+		elementActions.waitForElementToBeClickable(btn_createContact, 2);
 		elementActions.clickElement(btn_createContact);
 
 	}
 
 	public void validateCreatedContact(String referenceValue) {
+		elementActions.waitForElementToBeClickable(icon_Refresh, 2);
 		elementActions.clickElement(icon_Refresh);
 		try {
 			String firstName = null;

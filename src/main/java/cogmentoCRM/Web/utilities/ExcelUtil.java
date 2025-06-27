@@ -15,7 +15,7 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 
 public class ExcelUtil {
-	private static final String EXCEL_FILE_PATH = "./testdata/Cogmento-CRM_Web.xlsx";
+	private static final String EXCEL_FILE_PATH = "./testdata/Cogmento-CRM_BDD_Web.xlsx";
 
 	public Map<String, String> getTestDataForMethod(String methodName) {
 		List<Map<String, String>> dataList = getExcelDataAsList(EXCEL_FILE_PATH, methodName);

@@ -4,48 +4,50 @@ import java.util.Map;
 
 import org.testng.Assert;
 
-import cogmentoCRM.Web.base.BaseTest;
+import cogmentoCRM.Web.base.ScenarioContextManager;
+import cogmentoCRM.Web.base.TestContext;
 import cogmentoCRM.Web.pageObjects.CreateNewEventPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
 
-public class AddNewEvent extends BaseTest {
-	@Given("the user is on the Home Page")
-	public void validateHomePage() {
-		Assert.assertTrue(homePage.getLogo_Username().isDisplayed(), "The User is not in the HomePage");
+public class AddNewEvent {
+
+	private final TestContext context;
+
+	public AddNewEvent() {
+		this.context = ScenarioContextManager.getContext();
 	}
 
-	@When("the user clicks the Calendar icon from the main menu")
-	public void click_CalenderIcon() {
-		homePage.clickIcon_Calender();
+	@Given("The User is on HomePage")
+	public void verifyUserIsOnHomePage() {
+		Assert.assertTrue(context.getHomePage().getLogo_Username().isDisplayed(), "The User is not in the HomePage");
 	}
 
-	@When("the user clicks the Create Event button")
-	public void click_EventCreateBtn() {
-		calenderPage.clickonCreateBtn();
+	@Given("The user navigates to the Calender Page")
+	public void navigateToCalenderPage() {
+		context.getHomePage().clickIcon_Calender();
 	}
 
-	@When("the user enters data in all mandatory fields")
-	public void fillEventDetails() {
-		Map<String, String> data = excelUtil.getTestDataForMethod("fillEventDetails");
-		createNewEventPage.addNewEvent(data);
+	@Given("The user click on Create button")
+	public void clickOnCreateButton() {
+		context.getCalenderPage().clickonCreateBtn();
 	}
 
-	@When("the user clicks the Save button")
-	public void click_Savebtn() {
-		createNewEventPage.clickSaveBtn();
+	@Given("The user fills in all the required fields")
+	public void enterNewEventDetails() {
+		Map<String, String> data = context.getExcelUtil().getTestDataForMethod("enterNewEventDetails");
+		context.getCreateNewEventPage().addNewEvent(data);
 	}
 
-	@Then("the user should be navigated to the Event details page")
-	public void validateEventDetailsPage() {
-		Assert.assertEquals(createNewEventPage.getLogo_calenderIcon().isDisplayed(), true);
+	@Given("The user saves the Event")
+	public void clickSaveButton() {
+		context.getCreateNewEventPage().clickSaveBtn();
 	}
 
-	@Then("the user should see the event displayed in the Calendar")
-	public void validateCreatedEvent() {
-		homePage.clickIcon_Calender();
-		calenderPage.validateAddedEvent(CreateNewEventPage.referenceValue);
+	@Then("The Event should be add to the Event list")
+	public void verifyCreatedEventIsListed() {
+		context.getHomePage().clickIcon_Calender();
+		context.getCalenderPage().validateAddedEvent(CreateNewEventPage.referenceValue);
 	}
 
 }

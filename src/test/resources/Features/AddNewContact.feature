@@ -1,12 +1,16 @@
+@Contacts @Regression @UI
 Feature: 
-  Add the New Contact in Cogmento CRM portal
+  Manage Contacts
+  
+  As a CRM user
+  I want to manage my contacts
+  So that I can organize customer information efficiently
 
-  Scenario: 
-    Add the New Contact in Contacts Module and to Validate the Created Contact
-
-    Given User is on the Home Page
-    When User clicks on the Add Contacts icon from the main menu
-    And User should be navigated to the Create New Contact page
-    And User enters data in all mandatory fields
-    And User Clicks on Save button
-    Then Contact should be added to the list in the Contacts page
+  @AddContact @Smoke
+  Scenario: Add a new contact and validate it is listed
+    Given the user is on the Home page
+    When the user navigates to the Contacts page
+    And clicks on the Create button
+    And fills in all the required contact details
+    And submits the form
+    Then the new contact should appear in the contact list

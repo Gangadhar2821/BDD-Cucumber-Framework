@@ -20,18 +20,18 @@ import io.cucumber.java.Scenario;
 
 public class BasePage {
 
-	protected static WebDriver driver;
+	protected WebDriver driver;
 	protected ElementActionsImpl elementActions;
-	protected static LoggerUtil log;
+	protected LoggerUtil log;
 
 	public BasePage(WebDriver driver) {
 		this.driver = driver;
 		PageFactory.initElements(driver, this);
 		this.elementActions = new ElementActionsImpl(driver);
-		log = new LoggerUtil();
+		this.log = new LoggerUtil();
 	}
 
-	public static void screenShotOnStepFailure(Scenario scenario) {
+	public void screenShotOnStepFailure(Scenario scenario) {
 		try {
 			WebDriver driver = WebDriverFactory.getDriver();
 			log.info("Capturing the failure Screenshot..");

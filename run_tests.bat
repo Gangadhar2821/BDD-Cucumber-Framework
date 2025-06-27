@@ -9,3 +9,5 @@ REM Run Maven with dynamic plugin argument
 mvn test -Dcucumber.plugin="pretty,html:target/cucumber-reports/report_%timestamp%.html,io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
 
 pause
+
+

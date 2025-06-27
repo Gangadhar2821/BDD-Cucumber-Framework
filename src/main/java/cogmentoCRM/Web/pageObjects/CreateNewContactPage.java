@@ -190,11 +190,6 @@ public class CreateNewContactPage extends BasePage {
 		return txt_imageUpload;
 	}
 
-	public void getCapturedText(WebElement txt_number) {
-		referenceValue = elementActions.getValue(txt_number);
-
-	}
-
 	public void fillContactDetails(Map<String, String> data) {
 		try {
 			elementActions.inputText(txt_firstName, data.get("firstName"));
@@ -218,19 +213,17 @@ public class CreateNewContactPage extends BasePage {
 			elementActions.switchToggle(tgl_donotCall, data.get("Do not call"));
 			elementActions.inputText(txt_identifier, data.get("identifier"));
 			elementActions.fileUpload(txt_imageUpload, data.get("image"));
-			getCapturedText(txt_firstName);
+			referenceValue = elementActions.getValue(txt_number);
+
 		} catch (Exception e) {
 			log.error(e.getMessage());
 		}
 
 	}
 
-	public void saveContact() {
-		try {
-			elementActions.clickElement(btn_save);
-		} catch (Exception e) {
-			log.error(e.getMessage());
-		}
+	public void clickSaveBtn() {
+		elementActions.waitForElementToBeClickable(btn_save, 2);
+		elementActions.clickElement(btn_save);
 	}
 
 }
