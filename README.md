@@ -33,8 +33,7 @@ Ideal for real-world applications where robust automation, data-driven flexibili
 
 > The following core functionalities were **designed and developed from scratch** as part of the framework implementation:
 
-✅ **Custom WebDriver Factory using Singleton Design Pattern**  
-Ensures a single driver instance per thread to optimize browser session handling.
+✅ **Custom WebDriver Factory** Implementation by leveraging the **Singleton design pattern** combined with **ThreadLocal -WebDriver** to manage browser instances efficiently in parallel test executions..
 
 📦 **Page Object Model (POM) Structure**  
 Each page has a dedicated class with clean and modular method definitions.
