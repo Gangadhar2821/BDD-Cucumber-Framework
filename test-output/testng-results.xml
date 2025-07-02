@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-27T17:06:41 IST" name="Bdd_Suite" finished-at="2025-06-27T17:07:18 IST" duration-ms="37305">
+  <suite started-at="2025-07-02T17:05:31 IST" name="Bdd_Suite" finished-at="2025-07-02T17:07:41 IST" duration-ms="130305">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@379ce046]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@367d2816]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2025-06-27T17:06:41 IST" name="Regression Test" finished-at="2025-06-27T17:07:18 IST" duration-ms="37305">
+    <test started-at="2025-07-02T17:05:31 IST" name="Regression Test" finished-at="2025-07-02T17:07:41 IST" duration-ms="130305">
       <class name="cogmentoCRM.Web.runners.AllureTestNGRunner">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@379ce046]" started-at="2025-06-27T17:06:41 IST" name="setUpClass" finished-at="2025-06-27T17:06:42 IST" duration-ms="1244" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@367d2816]" started-at="2025-07-02T17:05:31 IST" name="setUpClass" finished-at="2025-07-02T17:05:32 IST" duration-ms="953" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@53d30d23]]>
+                <![CDATA[org.testng.TestRunner@71637a85]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@379ce046]" started-at="2025-06-27T17:06:42 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-06-27T17:07:15 IST" duration-ms="32395" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@367d2816]" started-at="2025-07-02T17:05:32 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-02T17:05:54 IST" duration-ms="21542" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[""]]>
+                <![CDATA["Add a New Company and Verify the Company is listed"]]>
               </value>
             </param>
             <param index="1">
@@ -37,7 +37,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@379ce046]" started-at="2025-06-27T17:06:42 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-06-27T17:07:18 IST" duration-ms="35922" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@367d2816]" started-at="2025-07-02T17:05:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-02T17:06:17 IST" duration-ms="23948" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -53,7 +53,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@379ce046]" started-at="2025-06-27T17:06:42 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-06-27T17:07:10 IST" duration-ms="27489" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@367d2816]" started-at="2025-07-02T17:06:17 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-02T17:06:36 IST" duration-ms="18424" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -69,7 +69,55 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@379ce046]" started-at="2025-06-27T17:07:18 IST" name="tearDownClass" finished-at="2025-06-27T17:07:18 IST" duration-ms="34" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@367d2816]" started-at="2025-07-02T17:06:36 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-02T17:06:58 IST" duration-ms="22464" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Unknown"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@367d2816]" started-at="2025-07-02T17:06:58 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-02T17:07:18 IST" duration-ms="19294" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Add a New Task and Verify the Task is listed"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Unknown"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@367d2816]" started-at="2025-07-02T17:07:18 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-07-02T17:07:41 IST" duration-ms="23594" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To Navigate through all the menus and test their functionality"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Unknown"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:cogmentoCRM.Web.runners.AllureTestNGRunner@367d2816]" started-at="2025-07-02T17:07:41 IST" name="tearDownClass" finished-at="2025-07-02T17:07:41 IST" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

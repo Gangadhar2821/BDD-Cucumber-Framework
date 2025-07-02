@@ -10,7 +10,7 @@
         <methods>
           <include name="setUpClass"/>
           <include name="tearDownClass"/>
-          <include name="runScenario" invocation-numbers="0 1 2"/>
+          <include name="runScenario" invocation-numbers="2 3"/>
         </methods>
       </class> <!-- cogmentoCRM.Web.runners.AllureTestNGRunner -->
     </classes>
