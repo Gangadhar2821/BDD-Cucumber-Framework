@@ -2,19 +2,14 @@ package cogmentoCRM.Web.stepDefinations;
 
 import java.util.Map;
 
-import cogmentoCRM.Web.base.ScenarioContextManager;
-import cogmentoCRM.Web.base.TestContext;
+import cogmentoCRM.Web.base.BaseTest;
 import cogmentoCRM.Web.pageObjects.CreateNewCompanyPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class AddNewCompany {
-	private final TestContext context;
-
-	public AddNewCompany() {
-		this.context = ScenarioContextManager.getContext();
-	}
+public class AddNewCompany extends BaseTest {
+	
 
 	@Given("The User is on the Home Page")
 	public void verifyHomePage() {

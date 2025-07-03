@@ -4,19 +4,12 @@ import java.util.Map;
 
 import org.testng.Assert;
 
-import cogmentoCRM.Web.base.ScenarioContextManager;
-import cogmentoCRM.Web.base.TestContext;
+import cogmentoCRM.Web.base.BaseTest;
 import cogmentoCRM.Web.pageObjects.CreateNewEventPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 
-public class AddNewEvent {
-
-	private final TestContext context;
-
-	public AddNewEvent() {
-		this.context = ScenarioContextManager.getContext();
-	}
+public class AddNewEvent extends BaseTest  {
 
 	@Given("The User is on HomePage")
 	public void verifyUserIsOnHomePage() {

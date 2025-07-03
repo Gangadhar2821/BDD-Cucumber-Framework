@@ -4,19 +4,13 @@ import java.util.Map;
 
 import org.testng.Assert;
 
-import cogmentoCRM.Web.base.ScenarioContextManager;
-import cogmentoCRM.Web.base.TestContext;
+import cogmentoCRM.Web.base.BaseTest;
 import cogmentoCRM.Web.pageObjects.CreateNewContactPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class AddNewContact {
-	private final TestContext context;
-
-	public AddNewContact() {
-		this.context = ScenarioContextManager.getContext(); // Pulls context for this thread
-	}
+public class AddNewContact extends BaseTest {
 
 	@Given("the user is on the Home page")
 	public void verifyUserIsOnHomePage() {

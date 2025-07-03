@@ -4,19 +4,13 @@ import static org.testng.Assert.assertTrue;
 
 import org.testng.Assert;
 
-import cogmentoCRM.Web.base.ScenarioContextManager;
-import cogmentoCRM.Web.base.TestContext;
+import cogmentoCRM.Web.base.BaseTest;
 import cogmentoCRM.Web.base.WebDriverFactory;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class MenusNavigation {
-	private final TestContext context;
-
-	public MenusNavigation() {
-		this.context = ScenarioContextManager.getContext();
-	}
+public class MenusNavigation extends BaseTest {
 
 	@Given("user click on Home Icon")
 	public void clickIcon_Home() {

@@ -31,7 +31,7 @@ public class TestContext {
 	private ReportsPage reportsPage;
 	private CasesPage casesPage;
 	private CreateNewTaskPage createNewTaskPage;
-	
+	private CreateNewCasePage createNewCasePage;
 
 	public void initializeContext() {
 		this.driver = WebDriverFactory.getDriver();
@@ -56,7 +56,8 @@ public class TestContext {
 		this.emailPage = new EmailPage(driver);
 		this.reportsPage = new ReportsPage(driver);
 		this.casesPage = new CasesPage(driver);
-		this.createNewTaskPage=new CreateNewTaskPage(driver);
+		this.createNewTaskPage = new CreateNewTaskPage(driver);
+		this.createNewCasePage = new CreateNewCasePage(driver);
 
 	}
 
@@ -70,6 +71,10 @@ public class TestContext {
 
 	public EmailPage getEmailPage() {
 		return emailPage;
+	}
+
+	public CreateNewCasePage getCreateNewCasePage() {
+		return createNewCasePage;
 	}
 
 	public ReportsPage getReportsPage() {
