@@ -1,4 +1,4 @@
-# 🚀 Cucumber-TestNG-Hybrid-Framework
+# 🚀 BDD-Cucumber-Framework
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Java](https://img.shields.io/badge/Java-21-blue)
@@ -9,7 +9,7 @@
 
 ## 📌 Project Overview:
 
-**Cucumber-TestNG-Hybrid-Framework** is a scalable and maintainable **UI test automation framework** built on top of a **hybrid BDD architecture**. It leverages **Cucumber**, **TestNG**, **Excel-based data driving**, **Allure & Cucumber reporting**, and industry-standard practices like reusable action layers, hooks, and modular **POM**.
+**BDD-Cucumber-Framework** is a scalable and maintainable **UI test automation framework** built on top of a **hybrid BDD architecture**. It leverages **Cucumber**, **TestNG**, **Excel-based data driving**, **Allure & Cucumber reporting**, and industry-standard practices like reusable action layers, hooks, and modular **POM**.
 
 Ideal for real-world applications where robust automation, data-driven flexibility, and BDD readability are required — with seamless test executions and integrations.
 
@@ -87,7 +87,7 @@ Run all tests locally or via CI by simply executing the `.bat` file.
 
 ## Steps:
 Step 1: Clone the Repository
-https://github.com/Gangadhar2821/Cucumber-TestNG-Hybrid-Framework.git
+https://github.com/Gangadhar2821/BDD-Cucumber-Framework.git
 
 Step 2: Navigate to the project directory and install dependencies and run 
 "mvn clean install" command
